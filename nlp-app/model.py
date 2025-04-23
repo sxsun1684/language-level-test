@@ -27,6 +27,9 @@ def load_spacy_model():
 def analyze_text(text):
     """Process text: extract POS tagging and word frequency."""
     if MODEL_CACHE is None:
+        load_spacy_model()  # Attempt to load the model if not loaded
+
+    if MODEL_CACHE is None:
         return {"error": "Model not loaded"}  #This means MODEL_CACHE was never initialized!
 
     doc = MODEL_CACHE(text)
