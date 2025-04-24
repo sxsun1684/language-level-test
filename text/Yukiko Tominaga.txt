@@ -1,0 +1,33 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2821
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;\f1\froman\fcharset0 Times-Bold;}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue255;\red0\green0\blue0;\red161\green30\blue31;
+}
+{\*\expandedcolortbl;;\cssrgb\c100000\c100000\c100000;\cssrgb\c0\c0\c0;\cssrgb\c69804\c18824\c15686;
+}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa200\partightenfactor0
+
+\f0\fs24 \cf0 \cb2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Japanese and English have nothing in common. Even though I\'92ve lived more than a half of my life in the U.S., I\'92m still afraid of English. I second guess articles, comma placements, phrasal verbs, prepositions, and tense matching; I worry about my limited vocabulary, and most importantly, I wonder if I am expressing myself in a way other people understand.\
+I thought if I was able to write a story in English, maybe the rest of the things that comes to my life wouldn\'92t look so hard including raising a child by myself. If I can face my fear, maybe I can survive in the U.S.\
+It has been almost 16 years since I started writing stories, alternating between Japanese and English. English still scares me, but the language brought me the courage to raise my child in this country, connected me to wonderful people, and gave me the confidence that, with my imagination accompanying me, I could survive not just in the U.S but under any circumstances.\
+When I write in Japanese, I see America more objectively. I am not swayed by opinions around me and often I rediscover why I love this country even though life in the US feels like it\'92s all about survival. When I write in English, I find Japan and Japanese people to be fascinating. I stop trying to make sense of them and rather let them be and appreciate their complexity as they are. Switching around the two languages frees me from my own stigma. As much as I desire to belong one place, it is a privilege to be a stranger in both my countries.\
+When I am stuck in either language, I start to translate the Japanese portion to English or vice versa. By the time I\'92m through it, I am ready to go back to writing another scene. I do this not for craft reasons but rather to keep my hands moving. The key is to contain myself in the world I am creating. Get the shape of the story.\
+Rhythm is what I care about the most in my stories. The rhythm of haiku and tanka sit with me very well. I don\'92t follow the rules of haiku or tanka but in my mind the same beat runs through my body, and I hear it when I read my Japanese draft aloud. In the English version, I can never recreate the same rhythms, instead, I am after my own beat. The beat in line level becomes a paragraph level which becomes a chapter, then a novel.
+\fs40 \
+\pard\pardeftab720\partightenfactor0
+
+\fs24 \cf3 \cb2 \strokec4 When the story is working for me, I feel great love for all humanity. \cf0 \cb2 \strokec3 At Counterpoint Press, where I work as an editorial assistant, I edit translations of Japanese books, introducing never-before-translated authors for English readers. I am constantly forced to think about two languages, asking myself, \'93What do we want to deliver to the reader the most?\'94 I learn from our translators that it\'92s a delicate dance of addition, subtraction, rearranging lines to recreate the soul of the author\'92s work.\
+\pard\pardeftab720\sa200\partightenfactor0
+\cf0 For my own work, I have all the liberty in the world. I can prioritize the rhythm of the piece over the content. I wrote the first half one of the chapters in my book, \'93Never Ever War\'94, fully in Japanese. In the chapter, some of the protagonist Kyoko\'92s thoughts appear from nowhere and it feels like I am picking a slide photo randomly. But I feel the beat in my body, so I know it\'92s the correct order. For the English version, I rearranged the scenes in a more chronological order because when I read the story aloud, the beat didn\'92t sit with me. I flipped two paragraphs and did some additions and subtractions.\
+In Japanese, timelines can be looser than in English. For example, I can write, \'93I eat dinner, go for a walk, and finished my night.\'94 We are not so strict about tense; we understand it from the context which give some freedom to readers to make up their version of the story. This is because when we talk about the past we are living in the past therefore, the past is the present. Let\'92s say I am talking about my child\'92s birth and start to cry. The past is happening in me as I speak. I am crying because the emotion is present. How can you say it is past? I use the chapter and entire book to show that time is only a concept that humans created.\
+In some stories, I combine a few sketches into one and add connective tissue to complete a story. That same principle applied for building my first novel. I put together stories in the order to mimic the process of grief without thinking about creating a novel. My novel was not deliberate, but eventual.\
+What is my writing process? Ask me the same question tomorrow, I will answer differently because explaining process is reflection, the after thoughts. Just like memories, the past is a narrative that I create based on my present moment. One thing that remains always true is when to end my story.\
+For me, it\'92s when I feel kindness.\
+If I still hold some meanness towards the character, I know I have more work to do in my story. As I spend so many hours with my characters, I learn to embrace their strengths and defects. The love for my character expands beyond my fiction. When the story is working for me, I feel great love for all humanity. This is how I know that the story is done.
+\fs40 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b\fs100 \cf0 \cb2 \strokec3 \
+}

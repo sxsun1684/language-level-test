@@ -4,6 +4,7 @@ from collections import Counter
 
 from config import MODEL_NAME, MODEL_CACHE
 
+
 def ensure_model():
     """Ensure the spaCy language model is installed."""
     try:
@@ -12,6 +13,7 @@ def ensure_model():
             download(MODEL_NAME)  # Download if missing
     except Exception as e:
         print(f"Error ensuring model '{MODEL_NAME}': {e}")
+
 
 def load_spacy_model():
     """Load and cache the spaCy language model."""
@@ -24,24 +26,29 @@ def load_spacy_model():
             print(f"Error loading spaCy model '{MODEL_NAME}': {e}")
             MODEL_CACHE = None  # Ensure it remains None if loading fails
 
-def analyze_text(text):
-    """Process text: extract POS tagging and word frequency."""
-    if MODEL_CACHE is None:
-        load_spacy_model()  # Attempt to load the model if not loaded
 
+def analyze_text(text):
+    """提取每个唯一单词的词性和频率（小写、去重）"""
     if MODEL_CACHE is None:
-        return {"error": "Model not loaded"}  #This means MODEL_CACHE was never initialized!
+        load_spacy_model()
+    if MODEL_CACHE is None:
+        return {"error": "Model not loaded"}
 
     doc = MODEL_CACHE(text)
+
     word_freq = Counter()
-    pos_info = []
+    word_pos_map = {}
 
     for token in doc:
         if token.is_alpha:
-            word_freq[token.text.lower()] += 1
-            pos_info.append((token.text, token.pos_))
+            word_lower = token.text.lower()
+            word_freq[word_lower] += 1
+            # 只记录第一次遇到的词性
+            if word_lower not in word_pos_map:
+                word_pos_map[word_lower] = token.pos_
 
-    return {"pos_tags": pos_info, "word_frequency": word_freq}
-
-
-
+    return {
+        "word_pos_freq": {word: {"pos": word_pos_map[word], "freq": freq}
+            for word, freq in word_freq.items()},
+        "unique_word_count": len(word_freq)
+    }
