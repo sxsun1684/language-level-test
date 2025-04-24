@@ -37,6 +37,6 @@ def extract_clean_paragraphs(url):
 
 # Example usage
 if __name__ == "__main__":
-    url = "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-senior-managers-should-have-higher-salaries-than-other-employees-agree-disagree/"
+    url = "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-young-people-not-communicating-with-older-people-reasons-solutions/"
     content = extract_clean_paragraphs(url)
     print(content)
